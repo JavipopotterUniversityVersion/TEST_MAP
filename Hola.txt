@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Buenos días :)
 
 estoy haciendo algo.
+=======
+AAAAAAAAAaAasaA
+>>>>>>> b695983f42afb86a04b7b4c5f33b6a2565ba598c
